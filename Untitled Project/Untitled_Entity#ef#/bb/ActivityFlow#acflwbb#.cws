@@ -3,17 +3,17 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.activityflow.ActivityflowBuildingBlock"
 	typeVersion="193b483e-a3b1-11ec-b909-0242ac120002"
-	RuntimeDocumentID="8C164501-C564-A1EC-B86D-637C39F9385B">
-	<DocumentID>8C164501-C564-A1EC-B86D-637C39F8F85B</DocumentID>
+	RuntimeDocumentID="8C164501-C564-A1EC-B871-032BB984B85B">
+	<DocumentID>8C164501-C564-A1EC-B871-032BB984785B</DocumentID>
 	<Name>ActivityFlow</Name>
 	<Description>ActivityFlow</Description>
 	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-06-01T14:24:01.208</CreationDate>
+	<CreationDate>2022-06-01T16:01:30.356</CreationDate>
 	<Notes/>
 	<Activityflows/>
 	<Entity>
 		<uri
-			id="8C164501-C564-A1EC-B86D-637C39FC785B"
+			id="8C164501-C564-A1EC-B871-032BB987F85B"
 		/>
 	</Entity>
 	<InboxTask/>
@@ -22,11 +22,11 @@
 		<ActivityflowStaticAction
 			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
 			RuntimeDocumentID="63D668B1FD884D818B6864637E3256B6">
-			<DocumentID>8C164501-C564-A1EC-B86D-637C39F8785B</DocumentID>
+			<DocumentID>8C164501-C564-A1EC-B871-032BB983F85B</DocumentID>
 			<Name>Initiateactivityflow</Name>
 			<Description>Initiate activity flow</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-06-01T14:24:01.207</CreationDate>
+			<CreationDate>2022-06-01T16:01:30.358</CreationDate>
 			<Notes/>
 		</ActivityflowStaticAction>
 	</OwnedActions>
