@@ -543,7 +543,7 @@
 							<CreationDate>2022-06-06T09:44:30.945</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
-							<Length>64</Length>
+							<Length>63</Length>
 							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
